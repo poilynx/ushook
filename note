@@ -1,0 +1,9 @@
+proc:
+3 close
+232 epoll_wait
+32 dup
+7 poll
+202 futex
+74 fsync
+75 fdatasync
+0 read
